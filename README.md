@@ -3,7 +3,7 @@
 > Parametric bootstrap uncertainty quantification and OAT sensitivity analysis  
 > for a hygro-viscoelastic dual-damage model of 3D-printed CF/Onyx composites.
 
-![Bootstrap Identifiability](bootstrap_identifiability.png)
+![Bootstrap Identifiability](bootstrap.png)
 
 ## What this repo does
 
